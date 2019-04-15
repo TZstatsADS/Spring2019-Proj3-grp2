@@ -7,7 +7,7 @@ Term: Spring 2019
 
 + Team ##2
 + Team members
-	+ Andy Huang
+	+ Andy Huang (group leader)
 	+ Haiqing Xu
 	+ Wensong Qiao
 	+ Zongbo Cai
